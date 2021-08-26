@@ -1,0 +1,24 @@
+body{
+    text-align:center;
+    background-color:forestgreen;
+}
+#heading{
+    background-color: darkmagenta;
+    color:aliceblue;
+}
+#p1{
+    color:cornflowerblue;
+}
+#p2{
+    color:aqua;
+}
+#p3{
+    color:aquamarine;
+}
+#p4{
+    color:blueviolet;
+}
+#img{
+    width:100px;
+    height:100px;
+}
